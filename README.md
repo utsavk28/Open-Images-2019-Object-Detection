@@ -2,6 +2,7 @@
 
 ## Dataset :
 * [Open-Images-2019-Object-Detection](https://www.kaggle.com/c/open-images-2019-object-detection/data)
+* [Data](https://github.com/cvdfoundation/open-images-dataset#download-images-with-bounding-boxes-annotations)
 
 ## Other Dataset's :
 * [50+ Object Detection Datasets from different industry domains](https://towardsai.net/p/computer-vision/50-object-detection-datasets-from-different-industry-domains)
